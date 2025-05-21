@@ -8,7 +8,7 @@ It is used within a grain and accepts PUT requests from the sandstorm parent, an
 
 ## Usage
 
-Make sure git and rustup packages are installed on your system
+Make sure **git** and **rustup** packages are installed on your system
 
 > git clone https://github.com/neuroradiology/sandstorm-file-store
 
